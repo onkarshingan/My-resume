@@ -1,0 +1,11 @@
+portfolio/
+│── index.html
+│── style.css
+│── script.js
+│
+│── home.html
+│── about.html
+│── achievements.html
+│── projects.html
+│── gallery.html
+│── contact.html
